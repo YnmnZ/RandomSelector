@@ -1,0 +1,34 @@
+* {
+  /* border: 1px solid black; */
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  margin: 0px;
+  padding: 0px;
+  font-size: 32px;
+}
+
+
+html {
+  margin: 0px;
+  padding: 0px;
+}
+
+div p {
+	font-size: 2em;
+}
+
+div>p {
+	color:rgb(200,0,0);
+}
+
+.second, .fifth{
+	font-size: 5vh;
+}
+
+.fourth:hover{
+	background-color: rgb(200,0,0);
+	color: white;
+}
